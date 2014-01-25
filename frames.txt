@@ -1,0 +1,5 @@
+android_left:8:24:android_left.png:true
+android_right:8:24:android_right.png:true
+slow_balls:10:40:slow_balls.png:false
+power_green:11:33:power-green.png:false
+power_red:11:33:power-base.png:false

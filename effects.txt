@@ -1,0 +1,4 @@
+ping:ping.wav
+pong:pong.wav
+click-menu:click-menu.wav
+click-menu-activate:click-menu-activate.wav
